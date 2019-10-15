@@ -34,7 +34,7 @@
 * include <stdlib.h> // "Cabeçalho da Biblioteca de Propósito Geral Padrão"
 * #include <conio.h>  // "Usada para a função getch()
 * #include <string.h> // String para copiar uma frase em outra e comparaçôes de texto
-* #ListaLigada.h //Anexada neste repositório
+* Nesse trabalho a lista ligada foi toda elaborada no mesmo programa, não sendo criada uma biblioteca específica para trabalhar com ela separada.
 
    * **Observação:** Para desenvolver este projeto, precisa apenas de conhecimentos básicos sobre lógica de programação e linguagem de programação C.
 
