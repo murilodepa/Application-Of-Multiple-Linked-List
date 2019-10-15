@@ -11,10 +11,13 @@
 * A função *main* nesse programa e na maioria dos outros que foram realizados, ficou praticamente exclusiva para a definição das variáveis do problema, chamada das funções (menu) e pequenas impressões de avisos. 
  
 * Abaixo, pode ser observado um exemplo ilustrativo de como irá ficar as ligações e os campos de informações:
+
 ![ListaCliente](https://user-images.githubusercontent.com/56207941/66794961-7f25ac00-eed9-11e9-8ed3-04c1d615e4d4.PNG)
-*A imagem foi retirada de um PDF, no qual foi proposto esse trabalho, encontrado neste repositório*
+
+*A imagem foi retirada de um PDF, no qual foi proposto esse trabalho, encontrado neste repositório.*
 
 * Na imagem abaixo, pode ser observado o programa em tempo de execução, executando uma simulação de entrada de dados de um cliente:
+
 ![multilistaligada](https://user-images.githubusercontent.com/56207941/66795738-e3496f80-eedb-11e9-93be-75eb73e50cbf.PNG)
 
 ### Pré-requisitos
